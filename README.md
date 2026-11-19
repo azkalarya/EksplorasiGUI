@@ -3,7 +3,7 @@
 Program sederhana berbasis Java Swing untuk menampilkan sapaan berdasarkan input nama pengguna.
 
 ## Screenshot Aplikasi
-![Screenshot](screenshot.png)
+![Screenshot](EksplorasiGUI.png)
 
 ## 5 Komponen Utama GUI yang Digunakan
 
